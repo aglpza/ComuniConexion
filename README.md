@@ -15,4 +15,5 @@ El proyecto busca potenciar la inclusión digital en comunidades con recursos li
 
 ## Estado del proyecto
 
-Actualmente, contamos con un **prototipo funcional** alojado en GitHub que incluye funcionalidades clave y está disponible para pruebas iniciales y retroalimentación.
+Actualmente, contamos con un **prototipo funcional** disponible en línea. Puedes explorar el proyecto en:  
+[ComuniConexión](https://comuni-conexion-b1qd.vercel.app/)
