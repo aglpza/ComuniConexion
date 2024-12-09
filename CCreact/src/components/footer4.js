@@ -128,7 +128,7 @@ Footer4.defaultProps = {
   link4: undefined,
   logoAlt: 'Logo de ComuniConexión',
   cookiesLink: undefined,
-  logoSrc: 'https://presentation-website-assets.teleporthq.io/logos/logo.png',
+  logoSrc: '/logo11-1500h.png',
   privacyLink: undefined,
 }
 
